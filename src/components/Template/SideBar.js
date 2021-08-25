@@ -18,8 +18,8 @@ const SideBar = () => (
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
+      <h2>Hi! 👋</h2>
+      <p>I'm Claire and I like cat memes.
         I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
         the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
         at <a href="https://matroid.com">Matroid</a>
@@ -37,7 +37,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Cliare Waupelani <Link to="/">waupelani.github.io/blog/</Link>.</p>
     </section>
   </section>
 );
