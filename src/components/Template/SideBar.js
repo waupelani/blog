@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>Hi! 👋</h2>
-      <p>I'm Claire and I like cat memes.
+      <p>I&apos;m Claire and I like cat memes.
         I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
         the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
         at <a href="https://matroid.com">Matroid</a>
